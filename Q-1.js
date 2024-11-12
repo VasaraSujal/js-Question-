@@ -1,4 +1,6 @@
 // use function 
+// new
+
 
 function marks(m1){
         if(m1<=100 && m1>=90){
